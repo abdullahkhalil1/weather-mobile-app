@@ -1,0 +1,19 @@
+{
+    "myWeather": "My Weather",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "today": "Today",
+    "previousDays": "Previous 7 days",
+    "nextDays": "Next 7 days",
+    "english": "English",
+    "arabic": "Arabic",
+    "weatherForecast": "Weather forecast",
+    "weatherDetails": "Weather details",
+    "km/hr": "km/hr",
+    "mb": "mb"
+}
